@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "385951825726",
+    "firebase_url": "https://onchat-88ec2.firebaseio.com",
+    "project_id": "onchat-88ec2",
+    "storage_bucket": "onchat-88ec2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385951825726:android:8a284e87f0f5e3de",
+        "android_client_info": {
+          "package_name": "com.example.sanjeev.onchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385951825726-57venejn5simpf1bd53p8ki0bvqm6nkh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sanjeev.onchat",
+            "certificate_hash": "6bda3b61d47b475956745c6209d5bb38b042884f"
+          }
+        },
+        {
+          "client_id": "385951825726-hjtg22fg9ssd046e3jjblqfvchg7baih.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCce19_q_Tc9u3i83CTbFvL5eKdW6SoOp0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "385951825726-hjtg22fg9ssd046e3jjblqfvchg7baih.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
